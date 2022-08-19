@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.back{
+    font-size: 20px; float: right;
+}
+
+canvas {
+    box-shadow: 10px, 10px, 10px, gray;
+    border-radius: 10px;
+}
