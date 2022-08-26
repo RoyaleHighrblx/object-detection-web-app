@@ -3,7 +3,7 @@ img = "";
 objects = [];
 
 function preload(){
-    img = loadImage('car.jpg');
+    img = loadImage('mw.jpg');
 }
 
 function setup(){
